@@ -6,7 +6,6 @@ Web Portfolio to showcase projects and skills in better manner.
 * Web Designing Page
 * Software Development Page
 
-### Hire Me banner
 ### Skills
 * Skills with progress bar
 ### Education
